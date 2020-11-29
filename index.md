@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/kubetvn88/log/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kubetvn88/log/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<head>
+<title>KUBET VIỆT NAM</title>
+</head>
+<body>
+<p>
+KUBET VIỆT NAM - KUBET VN PHIÊN BẢN CHÍNH THỨC CỦA THỊ TRƯỜNG VN.
+</p>
+<p>KUBET VN là phiên bản di động chính thức đem đến những trải nghiệm tuyệt vời tiện lợi cho khách hàng.
+</p>
+Được tham gia hội nhóm chốt số chuẩn mỗi ngày.
+<p>
+Khi tham gia KU VIỆT NAM người chơi sẽ có đội ngũ chăm sóc khách hàng chuyên nghiệp luôn giúp đỡ, giải đáp những thắc mắc cho khách hàng liên lục 24/7 mỗi ngày.</p>
+</body>
+</html>
